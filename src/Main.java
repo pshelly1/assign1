@@ -50,8 +50,8 @@ public class Main
         
         static void decimalToFraction*(double number);
         static float bionomialProbability(int n, int k, float p)
-                       return (n, k) * (float)Math.pow(p, k)*
-                                    (float) MAth.pow(1 - p, n-k);
+                       return (n, k) * (float)Math(p, k)*
+                                    (float) Math(1 - p, n-k);
         
     }
 }
